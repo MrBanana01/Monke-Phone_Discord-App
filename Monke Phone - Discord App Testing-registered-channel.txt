@@ -8,4 +8,4 @@ Eurora: Unable to set a registered channel's slowmode to under 15 seconds. It mu
 If you wish to unregister this channel. Run **'/unregister'**
 mrbananabutcat: this also is another limit
 striker67: What  the bots name
-mrbananabutcat: it's the charater's name in my game
+mrbananabutcat: it's the charaters name in my game
