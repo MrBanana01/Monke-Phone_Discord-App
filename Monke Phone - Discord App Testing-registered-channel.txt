@@ -1,4 +1,3 @@
-mrbananabutcat: markdowns don't work
 mrbananabutcat: I'm not adding them
 striker67: Though I try
 mrbananabutcat: photos no work as well
@@ -9,3 +8,4 @@ If you wish to unregister this channel. Run **'/unregister'**
 mrbananabutcat: this also is another limit
 striker67: What  the bots name
 mrbananabutcat: it's the charaters name in my game
+striker67: Oh lol
