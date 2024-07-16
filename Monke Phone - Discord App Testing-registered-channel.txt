@@ -6,3 +6,4 @@ mrbananabutcat: !!!
 striker67: ???
 mrbananabutcat: I made it skip messages with no content
 mrbananabutcat: (like photos)
+striker67: Oh
