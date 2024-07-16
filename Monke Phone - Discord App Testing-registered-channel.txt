@@ -1,3 +1,4 @@
+striker67: -# test
 mrbananabutcat: markdowns don't work
 mrbananabutcat: I'm not adding them
 striker67: Though I try
@@ -8,4 +9,3 @@ Eurora: Unable to set a registered channel's slowmode to under 15 seconds. It mu
 If you wish to unregister this channel. Run **'/unregister'**
 mrbananabutcat: this also is another limit
 striker67: What  the bots name
-mrbananabutcat: what
