@@ -1,4 +1,3 @@
-mrbananabutcat: it's flipped
 mrbananabutcat: the messages output
 mrbananabutcat: test
 mrbananabutcat: YES
@@ -8,3 +7,4 @@ striker67: -# test
 mrbananabutcat: markdowns don't work
 mrbananabutcat: I'm not adding them
 striker67: Though I try
+mrbananabutcat: photos no work as well
