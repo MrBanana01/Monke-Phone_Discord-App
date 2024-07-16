@@ -1,1 +1,10 @@
-
+mrbananabutcat: test
+striker67: Idk
+striker67: Maybe have sections
+mrbananabutcat: this is the most I can do without making github angry 🤷
+striker67: Then it’s gonna be very limited
+mrbananabutcat: whoops
+mrbananabutcat: oh I have to account for msg editing
+mrbananabutcat: without a limit it would be a huge file over time
+mrbananabutcat: when a msg is sent. I get every msg in the channel and contruct a string filled with data
+mrbananabutcat: hold on
