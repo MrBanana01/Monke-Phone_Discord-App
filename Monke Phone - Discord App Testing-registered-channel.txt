@@ -8,4 +8,4 @@ striker67: Makes sense
 mrbananabutcat: I might add default reactions
 Eurora: Unable to set a registered channel's slowmode to under 15 seconds. It must be at least 15 seconds or more.
 If you wish to unregister this channel. Run **'/unregister'**
-mrbananabutcat: and this
+mrbananabutcat: this also is another limit
