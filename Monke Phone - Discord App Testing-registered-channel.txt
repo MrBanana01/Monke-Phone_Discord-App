@@ -1,3 +1,4 @@
+striker67: ?
 mrbananabutcat: ugh
 mrbananabutcat: test 2
 mrbananabutcat: test
@@ -7,4 +8,3 @@ mrbananabutcat: this is the most I can do without making github angry 🤷
 striker67: Then it’s gonna be very limited
 mrbananabutcat: whoops
 mrbananabutcat: oh I have to account for msg editing
-mrbananabutcat: without a limit it would be a huge file over time
