@@ -7,4 +7,4 @@ striker67: You forgot the mini editors sign
 mrbananabutcat: mayhaps
 striker67: -# test
 mrbananabutcat: markdowns don't work
-mrbananabutcat: I'm not added them
+mrbananabutcat: I'm not adding them
