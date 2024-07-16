@@ -1,4 +1,3 @@
-mrbananabutcat: I made it skip messages with no content
 mrbananabutcat: (like photos)
 striker67: Oh
 striker67: But we need photos lol
@@ -8,3 +7,4 @@ mrbananabutcat: I don't even know how we would even send photos
 mrbananabutcat: we would need an external server to store it and send it
 mrbananabutcat: wait
 striker67: No
+mrbananabutcat: we can get the link but we can't render it
