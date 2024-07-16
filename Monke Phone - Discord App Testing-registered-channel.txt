@@ -1,4 +1,3 @@
-mrbananabutcat:  https://cdn.discordapp.com/attachments/1262785090522451999/1262795345549721604/Use_the_Ram.mp4?ex=6697e54f&is=669693cf&hm=7dc6eb60cd163ff526399c855eef51dd60f86e9ad212de5d033cc34cbfdcff02&
 striker67: You can embed using GitHub markdown
 mrbananabutcat: I need just the link to send
 mrbananabutcat: then it downloads it and renders in game
@@ -8,3 +7,4 @@ mrbananabutcat: ok good
 mrbananabutcat: oh I'm so stupid
 mrbananabutcat: I set a condition to add the msg content only if there were photos & videos. I never checked if there wasn't an attachment
 mrbananabutcat: test
+mrbananabutcat: YIPPEE!!!
