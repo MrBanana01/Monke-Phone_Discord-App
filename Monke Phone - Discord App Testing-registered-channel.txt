@@ -1,4 +1,3 @@
-mrbananabutcat: !!!
 striker67: ???
 mrbananabutcat: I made it skip messages with no content
 mrbananabutcat: (like photos)
@@ -7,3 +6,4 @@ striker67: But we need photos lol
 mrbananabutcat: because it doesn't send any info so why send it 🤷
 striker67: Photos
 mrbananabutcat: I don't even know how we would even send photos
+mrbananabutcat: we would need an external server to send it
