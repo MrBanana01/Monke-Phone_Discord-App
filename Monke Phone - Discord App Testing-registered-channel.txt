@@ -1,3 +1,4 @@
+mrbananabutcat: the messages output
 mrbananabutcat: it's flipped
 striker67: ?
 mrbananabutcat: ugh edited
@@ -7,4 +8,3 @@ striker67: Idk
 striker67: Maybe have sections
 mrbananabutcat: this is the most I can do without making github angry 🤷
 striker67: Then it’s gonna be very limited
-mrbananabutcat: whoops
